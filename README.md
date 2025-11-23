@@ -7,7 +7,7 @@ Bu repo, Docker ile tek bir `Dockerfile` kullanarak Jenkins çalıştırmak içi
 
 
 **Admin Parolası**
-- **Yol:** Başlangıçtaki admin parolası container içinde `/var/jenkins_home/secrets/initialAdminPassword` dosyasında bulunur.
+- Başlangıçtaki admin parolası container içinde `/var/jenkins_home/secrets/initialAdminPassword` dosyasında bulunur.
 
 
 ---
